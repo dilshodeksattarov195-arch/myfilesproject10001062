@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvpdate",
+        "uuid": 2673054,
+        "checksum": "95ovfh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
